@@ -74,13 +74,12 @@ mern-thinkboard/
 ├── package.json  # Root scripts for deployment
 ```
 
-## ✅ Planned Features
+## ✅ Ideas
 
- Sort notes by date
- Markdown support for content
- Add user authentication (e.g. JWT)
+- [ ] Add user authentication (e.g. JWT)
 
 ## 📸 Preview
+<img width="1277" height="682" alt="Bildschirmfoto 2025-07-23 um 16 56 40" src="https://github.com/user-attachments/assets/6ef6d8bb-903c-4e54-b60a-05150d057471" />
 
 ## 📄 License
 
